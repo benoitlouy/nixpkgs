@@ -344,7 +344,7 @@ let
       repo = "tree-sitter-nickel";
     };
     "tree-sitter-smithy" = {
-      orga = "indoorvivants";
+      orga = "benoitlouy";
       repo = "tree-sitter-smithy";
     };
   };
